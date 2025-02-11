@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9064ecee.css",
+    "main.js": "/static/js/main.d87fd3c8.js",
+    "static/js/488.5dc00adb.chunk.js": "/static/js/488.5dc00adb.chunk.js",
+    "static/media/aboutportfolio.jpg": "/static/media/aboutportfolio.28351353c595e1aa485c.jpg",
+    "static/media/ProfllePortfolio.jpg": "/static/media/ProfllePortfolio.f62c57765107b81ea505.jpg",
+    "static/media/portfolio.png": "/static/media/portfolio.59e17e567475a7cf9f60.png",
+    "static/media/Resume Aman Sahoo.pdf": "/static/media/Resume Aman Sahoo.8a50b00de84c270fad45.pdf",
+    "static/media/contacthere1.png": "/static/media/contacthere1.5e903ab873d302337c37.png",
+    "index.html": "/index.html",
+    "main.9064ecee.css.map": "/static/css/main.9064ecee.css.map",
+    "main.d87fd3c8.js.map": "/static/js/main.d87fd3c8.js.map",
+    "488.5dc00adb.chunk.js.map": "/static/js/488.5dc00adb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9064ecee.css",
+    "static/js/main.d87fd3c8.js"
+  ]
+}
